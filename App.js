@@ -7,7 +7,6 @@ export default function App() {
   return (
     <React.Fragment>
       <StatusBar barStyle="light-content" />
-
       <RootNavigator />
     </React.Fragment>
   );
